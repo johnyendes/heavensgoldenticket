@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "https://www.heavensgoldenticket.com", "permanent": true }
+  ],
+  "cleanUrls": true
+}
